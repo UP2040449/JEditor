@@ -1,4 +1,4 @@
-# JEditor
+# JEditor Bitches
 JEditor is a modern editor written completely in Java which means it is completely safe from memory leakages and is very secure.
 JEditor supports syntax highlighting for more than **30** programming languages. It is constantly updated and the updates are based on the user feedback. The editor also supports setting up alarm so that you never miss anything important while working. Some of the features are as follows:
 
